@@ -23,7 +23,6 @@ To get this project up and running on your local machine, follow these steps:
    ```bash
     cd simple-calculator
 3. **Open the index.html file in your web browser.**
-   Alternatively, you can view the live demo here (include the link to the hosted version if available).
 
 ## Usage
 To use the calculator, simply enter the numbers and select the desired operation. The calculator will display the result immediately below the input area.
